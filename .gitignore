@@ -1,0 +1,15 @@
+# This repository contains public documentation; binaries are Release assets.
+*.zip
+*.exe
+*.dll
+*.pdb
+*.cs
+*.csproj
+*.sln
+*.ps1
+*.py
+/src/
+/UserData/
+/work/
+/Data/
+/Validation/
