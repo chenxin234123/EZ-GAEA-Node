@@ -4,5 +4,6 @@ To help everyone learn Gaea, rather than getting stuck on sifting through docume
 
 帮助大家更快的学习GAEA 而非被查阅文档以及语言所困扰
 
-Download application in 'Release'
-在Release中下载
+- Download application in 'Release'
+
+- 在Release中下载
